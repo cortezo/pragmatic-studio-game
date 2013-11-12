@@ -2,6 +2,7 @@ require_relative 'player_class'
 require_relative 'die_class'
 require_relative 'game_turn'
 require_relative 'treasure_trove'
+require_relative 'loadeddie_class'
 require 'csv'
 
 class Game
