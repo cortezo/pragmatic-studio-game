@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
 	s.version 		= "1.0.0"
 	s.author 		= "Victor W"
 	s.email 		= "vwalldev@gmail.com"
-	s.homepage 		= "None!"
+	s.homepage 		= "http://nonenone.none.com"
 	s.summary		= "Pragmatic Studio Game"
 	s.description	= File.read(File.join(File.dirname(__FILE__), 'README'))
 
